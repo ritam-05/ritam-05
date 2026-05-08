@@ -41,40 +41,6 @@
 ---
 
 
-# 📚 Currently Learning
-
-```python
-topics = [
-    "LLM Engineering",
-    "RAG Pipelines",
-    "Agentic AI",
-    "MLOps",
-    "Vector Databases",
-    "Backend Development",
-    "System Design"
-]
-```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritam-05&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritam-05&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritam-05&theme=tokyonight" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -82,11 +48,11 @@ topics = [
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/ritam-polley-722175310/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
-  <a href="mailto:ritampolley6@gmail.com">
+  <a href="ritampolley6@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
