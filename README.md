@@ -59,11 +59,6 @@
 
 ---
 
-# ⚡ Fun Fact
-
-> I like building AI systems during the day and writing rap verses at night.
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ritam-05&style=for-the-badge&color=blue" />
