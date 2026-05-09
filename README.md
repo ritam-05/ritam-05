@@ -31,6 +31,11 @@
   - Production GenAI
 
 ---
+# Live Projects
+
+LexTrace - AI Powered Legal Interlligence System : https://lextrace-three.vercel.app/ (github: https://github.com/ritam-05/lextrace)
+FinMate - AI Financial Advisor : https://fin-mate-ai-powered-financial-advis.vercel.app/ (github: https://github.com/ritam-05/FinMate-AI-Powered-Financial-Advisor)
+VoiceGuard Voice Detector ( Detects Human vs AI voices ) : https://voiceguard12.netlify.app/ (github: https://github.com/ritam-05/voice-detector-api)
 
 # 🛠️ Tech Stack
 
