@@ -8,8 +8,6 @@
 
 </div>
 
-# ⚡ Tech Stack
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
@@ -44,23 +42,7 @@
 
 </div>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ritam-05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ritam-05&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritam-05&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-# 🚀 Live Projects
+# Live Projects
 
 ### ⚖️ LexTrace — AI Powered Legal Intelligence System
 🔗 Live: https://lextrace-three.vercel.app/  
@@ -78,7 +60,7 @@
 🔗 Live: https://voiceguard12.netlify.app/  
 💻 GitHub: https://github.com/ritam-05/voice-detector-api
 
-# 🚀 Current Focus
+# Currently: 
 
 - Building AI-powered financial systems
 - Exploring autonomous AI agents
@@ -86,13 +68,11 @@
 - Multi-modal AI applications
 - Open-source contributions
 
-# 👾 Contribution Game
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-# 🌐 Connect With Me
+# Connect With Me:
 
 <div align="center">
 
