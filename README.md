@@ -42,24 +42,6 @@
 
 </div>
 
-# Live Projects
-
-### ⚖️ LexTrace — AI Powered Legal Intelligence System
-🔗 Live: https://lextrace-three.vercel.app/  
-💻 GitHub: https://github.com/ritam-05/lextrace
-
-<br>
-
-### 💰 FinMate — AI Financial Advisor
-🔗 Live: https://fin-mate-ai-powered-financial-advis.vercel.app/  
-💻 GitHub: https://github.com/ritam-05/FinMate-AI-Powered-Financial-Advisor
-
-<br>
-
-### 🎙️ VoiceGuard — Human vs AI Voice Detector
-🔗 Live: https://voiceguard12.netlify.app/  
-💻 GitHub: https://github.com/ritam-05/voice-detector-api
-
 # Currently: 
 
 - Building AI-powered financial systems
