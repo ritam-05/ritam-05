@@ -44,7 +44,6 @@
 
 # Currently: 
 
-- Building AI-powered financial systems
 - Exploring autonomous AI agents
 - Advanced RAG pipelines
 - Multi-modal AI applications
