@@ -2,7 +2,7 @@
 
 **Data Scientist · AI Engineer · Builder**
 
-I build things I find interesting — from AI systems and developer tools to programming languages and data infrastructure.
+I build things I find interesting — from AI systems and developer tools to data infrastructure.
 
 ### Currently
 
