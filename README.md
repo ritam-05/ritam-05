@@ -12,10 +12,10 @@ I build things I find interesting — from AI systems and developer tools to pro
 
 ### Tech
 
-`Python` · `C++` · `SQL` · `PyTorch` · `FastAPI` · `Docker` · `Kafka` · `Spark` · `PostgreSQL`
+`Python` · `React` · `Node` · `SQL` · `PyTorch` · `FastAPI` · `Docker` · `Kafka` · `Spark` · `PostgreSQL` · `LnagChain`
 
 ### Find me
 
-[GitHub](https://github.com/ritam-05) · [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/ritam-polley-581865413/))
+[GitHub](https://github.com/ritam-05) · [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/ritam-polley-581865413/)
 
 > Build. Break. Learn. Repeat.
