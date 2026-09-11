@@ -16,6 +16,6 @@ I build things I find interesting — from AI systems and developer tools to dat
 
 ### Find me
 
-[GitHub](https://github.com/ritam-05) · [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/ritam-polley-581865413/)
+[GitHub](https://github.com/ritam-05) · [LinkedIn](https://www.linkedin.com/in/ritam-polley-581865413) · ritampolley6@gmail.com
 
 > Build. Break. Learn. Repeat.
