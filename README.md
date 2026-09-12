@@ -1,6 +1,6 @@
 # Ritam
 
-**Data Scientist · AI Engineer · Builder**
+**Data Scientist · AI Engineer · Builder · Problem Solver**
 
 I build things I find interesting — from AI systems and developer tools to data infrastructure.
 
