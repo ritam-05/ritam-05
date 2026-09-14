@@ -1,32 +1,26 @@
 # Ritam
 
-**Data Scientist · AI Engineer · Builder · Problem Solver**
+**Data Scientist · AI Engineer · Builder**
 
-I build things I find interesting — from AI systems and developer tools to data infrastructure.
+I build AI systems, developer tools, and backend infrastructure — with a focus on turning ideas into working software.
 
-### Currently
+### Stack
 
-* Building AI/ML systems
-* Exploring systems, distributed computing & LLMs
-* Turning random ideas into working software
+`Python` · `PyTorch` · `FastAPI` · `React` · `Node.js` · `SQL` · `PostgreSQL` · `Docker` · `Kafka` · `Spark` · `LangChain`
 
-### Tech
+### Projects
 
-`Python` · `React` · `Node` · `SQL` · `PyTorch` · `FastAPI` · `Docker` · `Kafka` · `Spark` · `PostgreSQL` · `LnagChain`
+- **[GitaWise](https://github.com/ritam-05/gita-wise-rag)** — RAG-based AI application
+- **[PyLite](https://github.com/ritam-05/pylite-python-ide)** — Python-inspired IDE & virtual machine
+- **[TraceChain](https://github.com/ritam-05/blockchain-image-tracing-computer-vision)** — Computer vision + blockchain
+- **[CPU Scheduler RL](https://github.com/ritam-05/cpu-scheduler-rl)** — RL-based CPU scheduling simulator
+- **[Mini API Gateway](https://github.com/ritam-05/fastapi-api-gateway)** — Lightweight API gateway
+- **[API Monitor](https://github.com/ritam-05/api-monitor)** — API monitoring system
+- **[CDN Simulator](https://github.com/ritam-05/cdn-simulator)** — CDN and caching simulation
+- **[VoiceGuard](https://github.com/ritam-05/voice-detector-api)** — Voice detection API
+- **[Linear Regression from Scratch](https://github.com/ritam-05/linear-regression-from-scratch)** — ML implementation from first principles
 
-### Featured Projects
-
-* GitaWise - https://github.com/ritam-05/gita-wise-rag
-* Pylite - https://github.com/ritam-05/pylite-python-ide
-* TraceChain - https://github.com/ritam-05/blockchain-image-tracing-computer-vision
-* CPU Scheduler (RL) - https://github.com/ritam-05/cpu-scheduler-rl
-* Mini API Gateway - https://github.com/ritam-05/fastapi-api-gateway
-* API Monitor - https://github.com/ritam-05/api-monitor
-* CDN Simulator - https://github.com/ritam-05/cdn-simulator
-* VoiceGuard - https://github.com/ritam-05/voice-detector-api
-* Linear Rgeression from Scratch - https://github.com/ritam-05/linear-regression-from-scratch
-
-### Find me
+### Connect
 
 [GitHub](https://github.com/ritam-05) · [LinkedIn](https://www.linkedin.com/in/ritam-polley-581865413) · ritampolley6@gmail.com
 
