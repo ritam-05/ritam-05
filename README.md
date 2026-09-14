@@ -14,6 +14,7 @@ I build AI systems, developer tools, and backend infrastructure — with a focus
 - **[PyLite](https://github.com/ritam-05/pylite-python-ide)** — Python-inspired IDE & virtual machine
 - **[TraceChain](https://github.com/ritam-05/blockchain-image-tracing-computer-vision)** — Computer vision + blockchain
 - **[CPU Scheduler RL](https://github.com/ritam-05/cpu-scheduler-rl)** — RL-based CPU scheduling simulator
+- **[DayFlow](https://github.com/ritam-05/dayflow-hrms)** — Full Stack HR Management System
 - **[Mini API Gateway](https://github.com/ritam-05/fastapi-api-gateway)** — Lightweight API gateway
 - **[API Monitor](https://github.com/ritam-05/api-monitor)** — API monitoring system
 - **[CDN Simulator](https://github.com/ritam-05/cdn-simulator)** — CDN and caching simulation
