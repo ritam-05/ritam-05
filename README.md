@@ -1,4 +1,4 @@
-# Ritam
+# Ritam Polley
 
 **Data Scientist · AI Engineer · Builder**
 
