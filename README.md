@@ -11,6 +11,7 @@ I build AI systems, data engineering pipelines, developer tools, and backend inf
 ### Projects
 
 - **[E-Commerce Data Lakehouse](https://github.com/ritam-05/e-commerce-data-lakehouse)** — End-to-end PySpark medallion architecture with AWS S3, Glue Data Catalog, Athena, and Power BI.
+- **[IoT Sensors Streaming Data Warehouse](https://github.com/ritam-05/iot-sensors-streaming-data-warehouse)** - End-to-end autonomous IoT streaming pipeline for real-time ETL, data warehousing, and analytics.
 - **[GitaWise](https://github.com/ritam-05/gita-wise-rag)** — RAG-based AI application on Gita verses.
 - **[PyLite](https://github.com/ritam-05/pylite-python-ide)** — Python-inspired IDE, bytecode compiler, and virtual machine.
 - **[TraceChain](https://github.com/ritam-05/blockchain-image-tracing-computer-vision)** — Computer vision and blockchain-based image tracing.
