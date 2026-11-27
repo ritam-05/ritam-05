@@ -11,6 +11,7 @@ I build AI systems, data engineering pipelines, developer tools, and backend inf
 ### Projects
 
 - **[IPL Data Analysis](https://github.com/ritam-05/ipl-data-analysis)** — Data Analysis using PySpark medallion architecture with AWS S3, and Power BI on historical IPL Data.
+- **[Know IPL](https://github.com/ritam-05/ipl-data-analytics)** - Know IPL is a full-stack IPL cricket analytics platform featuring interactive dashboards and an AI analyst (`cricketmama.exe`) powered by Next.js, FastAPI, Supabase (`pgvector`), LangGraph, and Voyage AI for natural-language SQL querying, RAG insights, and dynamic visualizations.
 - **[E-Commerce Data Lakehouse](https://github.com/ritam-05/e-commerce-data-lakehouse)** — End-to-end PySpark medallion architecture with AWS S3, Glue Data Catalog, Athena, and Power BI on Brazilian Olist Dataset.
 - **[End to End Water Quality ETL Pipeline & BI](https://github.com/ritam-05/water-quality-etl)** — A fault-tolerant, serverless IoT data pipeline built with AWS, Supabase, and Grafana to ingest, process, and visualize real-time water quality telemetry.
 - **[GitaWise](https://github.com/ritam-05/gita-wise-rag)** — RAG-based AI application on Gita verses.
